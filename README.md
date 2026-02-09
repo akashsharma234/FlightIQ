@@ -1,3 +1,5 @@
+![Airline Analysis](https://miro.medium.com/v2/resize:fit:1024/1*xN9f68evmxWPnv45FhnHGg.jpeg)
+
 ✈️ Airline Revenue & Occupancy Analysis
 📌 Business Problem
 
